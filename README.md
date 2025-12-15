@@ -1,4 +1,4 @@
-# AI Agentic Trip Planner  
+# TripCrew  
 
 An intelligent travel planning application powered by **CrewAI**, **Groq (Llama 3.1)**, and **Streamlit**. This tool uses a team of autonomous AI agents to research, plan, and budget a complete 7-day travel itinerary based on your interests.  
 
@@ -20,10 +20,10 @@ An intelligent travel planning application powered by **CrewAI**, **Groq (Llama 
 
 1. **Clone the repository:**  
     ```bash  
-    git clone https://github.com/chetanp2002/AI-Trip-Planner)
+    git clone https://github.com/chetanp2002/TripCrew
     ```
     ```bash 
-    cd ai-trip-planner  
+    cd TripCrew  
     ```  
 
 2. **Create a Virtual Environment:**  
