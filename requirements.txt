@@ -1,0 +1,10 @@
+
+crewai
+langchain-groq
+langchain-community
+duckduckgo-search
+beautifulsoup4
+requests
+python-dotenv
+litellm
+streamlit
